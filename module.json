@@ -1,0 +1,19 @@
+{
+  "name": "SoundBoard-BlitzFreePack",
+  "title": "SoundBoard Pack - Blitz Free Pack",
+  "description": "Free Audio Pack - A sounds pack for SoundBoard by Blitz.",
+  "version": "1.0.0",
+  "author": "Blitzkraig",
+  "scripts": ["importpack.js"],
+  "styles": [],
+  "packs": [],
+  "languages": [],
+  "dependencies": [{
+    "name": "SoundBoard"
+  }],
+  "minimumCoreVersion": "0.6.2",
+  "compatibleCoreVersion": "0.8.1",
+  "url": "https://github.com/BlitzKraig/fvtt-SoundBoard-BlitzFreePack",
+  "manifest": "https://raw.githubusercontent.com/BlitzKraig/fvtt-SoundBoard-BlitzFreePack/master/module.json",
+  "download": "https://github.com/BlitzKraig/fvtt-SoundBoard-BlitzFreePack/archive/master.zip"
+}
