@@ -1,6 +1,7 @@
 # SoundBoard Pack - Blitz Free Pack
 
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q01YIEJ)
+![Free Pack Release](https://github.com/BlitzKraig/fvtt-SoundBoard-BlitzFreePack/workflows/SoundBoard-BlitzFreePack%20Release/badge.svg)
+![Latest Release Download Count](https://img.shields.io/github/downloads/BlitzKraig/fvtt-SoundBoard-BlitzFreePack/latest/soundboard-freepack-release.zip)
 
 The 'Standard' sound pack for use with SoundBoard in FVTT
 
@@ -21,5 +22,7 @@ Please create a github issue, or contact me on Discord at Blitz#6797
 ## Audio Attribution
 
 Packed sounds all royalty free, from the GDC Audio Bundles on sonniss.com
+
+Naval Warfare donated by powerkor. <https://www.soundsnap.com/licence>
 
 Cult Chant sounds created by Blitz
